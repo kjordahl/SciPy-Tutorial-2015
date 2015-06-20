@@ -52,4 +52,15 @@ try:
 except ImportError:
     print(FAIL, 'Basemap not installed')
 
-    
+
+try:
+    from cartopy import __version__
+    print(OK, 'Cartopy version', __version__)
+except ImportError:
+    print(FAIL, 'Cartopy not installed')
+
+try:
+    import geojsonio
+    print(OK, 'geojsonio installed')
+except:
+    print(FAIL, 'geojsonio not installed')
