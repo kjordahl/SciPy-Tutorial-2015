@@ -14,13 +14,19 @@ The following packages will be required for this tutorial:
 * [rasterio](https://pypi.python.org/pypi/rasterio)
 * [geopandas](https://github.com/geopandas/geopandas)
 
-These packages have a number of prerequisites, including NumPy, pandas, matplotlib, and GDAL. I recommend starting with a standard scientific python distribution such as Canopy or Anaconda.
+Optional packages that may be used in demonstrations, but not required for exercises, include:
+
+* [basemap](https://pypi.python.org/pypi/basemap/1.0.2)
+* [Cartopy](http://scitools.org.uk/cartopy)
+* [geojsonio.py](https://github.com/jwass/geojsonio.py)
+
+These packages have a number of prerequisites, including NumPy, pandas, matplotlib, and GDAL. I recommend starting with a standard scientific python distribution such as [Canopy](https://store.enthought.com) or [Anaconda](https://store.continuum.io/cshop/anaconda).
 
 All packages are supported for Python 2.7 and recent versions of Python 3 (3.4 is recommended). Any of the 3 major platforms (Windows, OS X, and Linux) should work. Particularly on Windows, using precompiled packages when available will usually be much easier and less error-prone.
 
-### Canopy ###
+### Installing in Canopy ###
 
-`Fiona`, `Shapely`, and `pyproj` can be installed with the Canopy package manager, or from the command line using `enpkg`. You should also install `GDAL`, as a prerequisite for `rasterio`. Then follow the instructions for installing `rasterio` and `geopandas` with `pip` below.
+`Fiona`, `Shapely`, and `pyproj` (as well as option packages `basemap` and `cartopy`) can be installed with the Canopy package manager, or from the command line using `enpkg`. You should also install `GDAL`, as a prerequisite for `rasterio`. Then follow the instructions for installing `rasterio` and `geopandas` with `pip` below.
 
 ### Installing with pip ###
 
