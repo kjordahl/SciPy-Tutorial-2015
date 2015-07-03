@@ -12,7 +12,7 @@ The file `landsat.tif` was derived from Landsat 8 data downloaded through [Libra
 
 The file `manhattan.tif` is a [Digital Orthophoto Quadrangle (DOQ)](https://lta.cr.usgs.gov/DOQs) from the USGS and in the public domain ([direct link](http://earthexplorer.usgs.gov/metadata/1131/DI00000000845784)). They [request](https://lta.cr.usgs.gov/citation) the following attribution statement when using thir data: "Data available from the U.S. Geological Survey."
 
-The file `latest.gif` contains a radar image from the National Weather Service and downloaded from [http://radar.weather.gov/Conus/RadarImg/latest.gif] and is in the public domain.
+The file `latest.gif` contains a radar image from the National Weather Service downloaded from [http://radar.weather.gov/Conus/RadarImg/latest.gif] and is in the public domain.
 
 Data in the `idaho-lakes` directory is from the [Idaho Department of Water Resources](https://www.idwr.idaho.gov/GeographicInfo/gisdata/gis_data.htm) and available with the following statement on distribution:
 
