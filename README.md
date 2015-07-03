@@ -30,7 +30,7 @@ All packages are supported for Python 2.7 and recent versions of Python 3 (3.4 i
 
 ### Installing with conda ###
 
-Many of the packages are available in Anaconda. Matt Craig contributed the script [conda-setup.sh](conda-setup.sh) which installs all of the required packages (and most of the optional ones) for this tutorial.
+Many of the packages are available in Anaconda. Matt Craig contributed the script [`conda-setup.sh`](conda-setup.sh) which installs all of the required packages (and most of the optional ones) for this tutorial.
 
 ### Installing with pip ###
 
@@ -44,7 +44,7 @@ Alternatively, you can install the source package from the [geopandas GitHub rep
 
 ### Testing your installation ###
 
-Run the `check_env.py` script. If all the required packages say `[ OK ]`, you should be ready.
+Run the [`check_env.py`](check_env.py) script. If all the required packages say `[ OK ]`, you should be ready.
 
 Data
 ----
