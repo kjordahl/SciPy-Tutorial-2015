@@ -14,6 +14,8 @@ The file `manhattan.tif` is a [Digital Orthophoto Quadrangle (DOQ)](https://lta.
 
 The file `latest.gif` contains a radar image from the National Weather Service downloaded from [http://radar.weather.gov/Conus/RadarImg/latest.gif] and is in the public domain.
 
+Some examples (data not included) are from the [New York Department of City Planning](http://www.nyc.gov/html/dcp/html/bytes/districts_download_metadata.shtml#bcd). They have a disclaimer, though not an explicit license, these seem to be free to use.
+
 Data in the `idaho-lakes` directory is from the [Idaho Department of Water Resources](https://www.idwr.idaho.gov/GeographicInfo/gisdata/gis_data.htm) and available with the following statement on distribution:
 
 "The Idaho Department of Water Resources is making this data available as a public service. The Idaho Department of Water Resources strives to ensure that all technical data and other information made available to the public is accurate, complete and in conformance with the Idaho Public Records Act. Neither the Department of Water Resources nor the State of Idaho, however, assumes any legal responsibility for the accuracy or completeness of the information contained on this site. Persons using information from this site for official purposes, or other purposes, for which accuracy and completeness are required, are hereby notified that they should first verify the information with the public records or other primary sources from which the information was obtained."
