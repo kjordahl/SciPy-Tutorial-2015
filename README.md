@@ -40,7 +40,7 @@ For most of the packages, `pip install <packagename>` will be sufficient. Please
 
     pip install git+git://github.com/geopandas/geopandas.git
 
-Alternatively, you can install the source package from the geopandas GitHub repository and install it into your python if you are comfortable doing so.
+Alternatively, you can install the source package from the [geopandas GitHub repository](https://github.com/geopandas/geopandas) and install it into your python if you are comfortable doing so.
 
 ### Testing your installation ###
 
