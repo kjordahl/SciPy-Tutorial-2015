@@ -49,4 +49,4 @@ Run the [`check_env.py`](check_env.py) script. If all the required packages say 
 Data
 ----
 
-Smaller data files will be in the `data` directory of this repository. I'll provide a link for larger binary files.
+The data for this tutorial can be download at [this location](http://public.enthought.com/~kjordahl/scipy2015/tutorial_data.zip). Please download and unzip this file in this directory. Alternatively, run the [`download_data.py`](download_data.py) script to handle the download and unpacking for you.
