@@ -26,7 +26,7 @@ All packages are supported for Python 2.7 and recent versions of Python 3 (3.4 i
 
 ### Installing in Canopy ###
 
-`Fiona`, `Shapely`, and `pyproj` (as well as option packages `basemap` and `cartopy`) can be installed with the Canopy package manager, or from the command line using `enpkg`. You should also install `GDAL`, as a prerequisite for `rasterio`. Then follow the instructions for installing `rasterio` and `geopandas` with `pip` below.
+`Fiona`, `Shapely`, and `pyproj` (as well as optional packages `GDAL`, `basemap` and `cartopy`) can be installed with the Canopy package manager, or from the command line using `enpkg`. Then follow the instructions for installing `rasterio` and `geopandas` with `pip` below.
 
 ### Installing with pip ###
 
