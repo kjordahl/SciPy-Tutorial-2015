@@ -10,3 +10,4 @@ pandas
 requests
 rtree
 descartes
+ipython-notebook
