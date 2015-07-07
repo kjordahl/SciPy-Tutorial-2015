@@ -1,0 +1,12 @@
+pyproj
+fiona
+shapely
+rasterio
+geopandas
+basemap
+cartopy
+geojsonio
+pandas
+requests
+rtree
+descartes
