@@ -12,7 +12,6 @@ import cartopy.crs as ccrs
 import matplotlib.pyplot as plt
 
 utm18n = ccrs.UTM(18)
-merc = ccrs.Mercator()
 ax = plt.axes(projection=utm18n)
 plt.title('UTM zone 18N')
 
@@ -30,7 +29,7 @@ with rasterio.open(raster_file) as src:
     x = [left, right, right, left, left]
     y = [bottom, bottom, top, top, bottom]
     ax.coastlines(resolution='10m', linewidth=4, color='red')
-    gl = ax.gridlines(linewidth=2, color='lightblue', alpha=0.5, linestyle='--')
+    ax.gridlines(linewidth=2, color='lightblue', alpha=0.5, linestyle='--')
 
 plt.savefig('rasterio_cartopy.png', dpi=300)
 plt.show()
