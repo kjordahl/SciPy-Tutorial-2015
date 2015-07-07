@@ -6,7 +6,6 @@ SciPy tutorial 2015
 """
 
 import os
-import numpy as np
 import rasterio
 import cartopy.crs as ccrs
 import matplotlib.pyplot as plt
@@ -23,7 +22,6 @@ raster_file = os.path.join(data_dir, 'manhattan.tif')
 
 with rasterio.open(raster_file) as src:
     left, bottom, right, top = src.bounds
-    a = np.ones((10, 10))
     ax.imshow(src.read(1), origin='upper',
               extent=(left, right, bottom, top), cmap='gray')
     x = [left, right, right, left, left]
