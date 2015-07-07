@@ -3,6 +3,13 @@ Geospatial Data with Open Source Tools in Python
 
 This tutorial will focus on open source libraries that provide a high-level, pythonic interface to geographic data and computations. Students will learn to read standard GIS file formats, perform spatial calculations, and plot results.
 
+Tutorial materials
+------------------
+
+- [Presentation slides](http://kjordahl.github.io/SciPy-Tutorial-2015)
+- [Examples](examples)
+- [Exercises](exercises)
+
 Installation
 ------------
 
