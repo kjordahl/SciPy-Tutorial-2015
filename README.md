@@ -56,4 +56,4 @@ Run the [`check_env.py`](check_env.py) script. If all the required packages say 
 Data
 ----
 
-The data for this tutorial can be download at [this location](http://public.enthought.com/~kjordahl/scipy2015/tutorial_data.zip). Please download and unzip this file in this directory. Alternatively, run the [`download_data.py`](download_data.py) script to handle the download and unpacking for you.
+The data for this tutorial can be download at [this location](https://github.com/kjordahl/SciPy-Tutorial-2015/releases/download/v1.0/tutorial_data.zip). Please download and unzip this file in this directory. Alternatively, run the [`download_data.py`](download_data.py) script to handle the download and unpacking for you.
