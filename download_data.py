@@ -29,7 +29,7 @@ except ImportError:
     from urllib.request import urlopen
 
 
-url = 'http://public.enthought.com/~kjordahl/scipy2015/tutorial_data.zip'
+url = 'https://github.com/kjordahl/SciPy-Tutorial-2015/releases/download/v1.0/tutorial_data.zip'
 
 
 if sys.version_info[0] < 3:
