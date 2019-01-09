@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Run this file to download and install the data files for the geospatial
 tutorial.
